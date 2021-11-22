@@ -24,7 +24,7 @@
 <br>
   -
 <br>
-  <strong📚 Frameworks, Platforms and Libraries:</strong>
+  <strong>📚 Frameworks, Platforms and Libraries:</strong>
   <br>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white&labelColor=black">
