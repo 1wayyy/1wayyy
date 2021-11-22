@@ -61,7 +61,7 @@
 <br>
   -
 <br>
-  <strong>⚙️ Servers:</strong>
+  <strong>⚙️ WWW servers:</strong>
 <br>
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white&labelColor=black">
 <br>
