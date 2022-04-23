@@ -85,6 +85,10 @@
 </div>
 <hr>
 <div align="center">
+<strong>Discord:</strong>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852939918463729714)](https://discord.com/users/852939918463729714)
+<br>
+<br>
 <strong>🎶 Spotify:</strong>
 <br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=21jobjpyuc7plxozej2l6ooti">
