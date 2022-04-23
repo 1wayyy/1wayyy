@@ -86,6 +86,7 @@
 <hr>
 <div align="center">
 <strong>Discord:</strong>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852939918463729714)](https://discord.com/users/852939918463729714)
 <br>
 <br>
