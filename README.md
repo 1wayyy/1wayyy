@@ -81,7 +81,7 @@
 <br>
 • Discord: 1way#2115
 
-• Website: https://1wayy.xyz
+• Website: https://riveshop.space
 </div>
 <hr>
 <div align="center">
