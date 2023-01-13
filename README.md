@@ -92,7 +92,6 @@
 <br>
 <strong>🎶 Spotify:</strong>
 <br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=21jobjpyuc7plxozej2l6ooti">
 </div>
 
 <div>
